@@ -1,7 +1,6 @@
 package DataStructure.LinkedListTheme;
 
 import java.util.Arrays;
-import java.util.LinkedList;
 
 public class MyLinkedList {
     private Node head;
