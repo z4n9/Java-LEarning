@@ -29,8 +29,7 @@ public class StreamApiLearn {
 //        List<Person> juniors = personList.stream()
 //                .filter(person -> person.getPosition().equals(Position.JUNIOR))
 //                .collect(Collectors.toList());
-//
-//        juniors.forEach(System.out::println);
+//                .forEach(System.out::println);
 
         //sort
 //        personList.stream()
@@ -60,14 +59,14 @@ public class StreamApiLearn {
 //        System.out.println(b);
 
         //group
-        Map<Position, List<Person>> collect = personList.stream()
-                .collect(Collectors.groupingBy(Person::getPosition));
-
-        collect.forEach((position, people) -> {
-            System.out.println(position);
-            people.forEach(System.out::println);
-            System.out.println();
-        });
+//        Map<Position, List<Person>> collect = personList.stream()
+//                .collect(Collectors.groupingBy(Person::getPosition));
+//
+//        collect.forEach((position, people) -> {
+//            System.out.println(position);
+//            people.forEach(System.out::println);
+//            System.out.println();
+//        });
     }
 
 
@@ -76,6 +75,7 @@ public class StreamApiLearn {
         return List.of(new Person("Arthur", 18, Position.JUNIOR),
                 new Person("Bob", 25, Position.SENIOR),
                 new Person("Bill", 23, Position.MIDDLE));
+
     }
 }
 

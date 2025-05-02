@@ -1,4 +1,4 @@
-package AdditionalTopics;
+package AdditionalTopics.AnonAndLamd;
 
 public class Lambda {
     public static void main(String[] args) {
