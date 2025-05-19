@@ -1,8 +1,6 @@
 package SOLID;
 
-import javax.management.MBeanNotificationInfo;
-
-public class TaskSOLID {
+public class TaskSOLIDMyVer {
     public static void main(String[] args) {
 
         Barrier barrier = new Barrier(2);
