@@ -1,4 +1,4 @@
-package SOLID;
+package AdditionalTopics.SOLID;
 
 public class Liskov_Substitution {
     public static void main(String[] args) {

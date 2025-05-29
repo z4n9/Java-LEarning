@@ -1,4 +1,4 @@
-package Exeptions;
+package AdditionalTopics.Exeptions;
 
 public class MyException extends IllegalArgumentException{
     public MyException(){}

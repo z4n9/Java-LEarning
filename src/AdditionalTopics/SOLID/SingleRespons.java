@@ -1,4 +1,4 @@
-package SOLID;
+package AdditionalTopics.SOLID;
 
 public class SingleRespons {
     public static void main(String[] args) {

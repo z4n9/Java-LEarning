@@ -1,4 +1,4 @@
-package DBManagerLesson;
+package AdditionalTopics.DBManagerLesson;
 
 import java.util.Scanner;
 

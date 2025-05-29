@@ -1,4 +1,4 @@
-package SOLID;
+package AdditionalTopics.SOLID;
 
 public class Dependency_Inversion {
     public static void main(String[] args) {

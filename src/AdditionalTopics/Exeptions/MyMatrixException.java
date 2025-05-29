@@ -1,4 +1,4 @@
-package Exeptions;
+package AdditionalTopics.Exeptions;
 
 public class MyMatrixException extends MyException{
     private int index;

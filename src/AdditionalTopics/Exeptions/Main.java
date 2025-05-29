@@ -1,4 +1,4 @@
-package Exeptions;
+package AdditionalTopics.Exeptions;
 
 import java.util.Scanner;
 

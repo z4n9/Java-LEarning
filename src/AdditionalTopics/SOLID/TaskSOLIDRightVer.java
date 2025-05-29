@@ -1,4 +1,4 @@
-package SOLID;
+package AdditionalTopics.SOLID;
 
 import java.util.ArrayList;
 

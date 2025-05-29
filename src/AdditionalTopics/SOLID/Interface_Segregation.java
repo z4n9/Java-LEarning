@@ -1,4 +1,4 @@
-package SOLID;
+package AdditionalTopics.SOLID;
 
 public class Interface_Segregation {
     public static void main(String[] args) {

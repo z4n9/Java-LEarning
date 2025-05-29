@@ -1,4 +1,4 @@
-package SOLID;
+package AdditionalTopics.SOLID;
 
 public class Open_closed {
     public static void main(String[] args) {
