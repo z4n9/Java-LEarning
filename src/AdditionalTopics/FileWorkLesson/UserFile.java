@@ -1,5 +1,6 @@
 package AdditionalTopics.FileWorkLesson;
 
+//просто создаем класс Юзеров
 public class UserFile{
     private int id;
     private String login;
@@ -25,10 +26,6 @@ public class UserFile{
 
     public void setLogin(String login) {
         this.login = login;
-    }
-
-    public String getPassword() {
-        return password;
     }
 
     public void setPassword(String password) {
